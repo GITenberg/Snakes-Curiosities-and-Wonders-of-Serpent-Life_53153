@@ -1,0 +1,25 @@
+_repo: Snakes-Curiosities-and-Wonders-of-Serpent-Life_53153
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hopley, Catherine Cooper
+    alias: Jones, Sarah L.
+    gutenberg_agent_id: '47242'
+    url: http://www.gutenberg.org/2009/agents/47242
+description: ''
+gutenberg_issued: '2016-09-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53153'
+  lccn: 01001188
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QL'
+- !lcsh 'Snakes'
+- !lcsh 'Animal behavior'
+- GITenberg
+title: 'Snakes: Curiosities and Wonders of Serpent Life'
+url: http://www.gutenberg.org/ebooks/53153
